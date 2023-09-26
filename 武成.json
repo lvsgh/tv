@@ -5,23 +5,22 @@
     
     {
       "key": "AList",
-      "name": "❤AList",
+      "name": "❤罗汉果专用",
       "type": 3,
       "api": "csp_AList",
       "searchable": 1,"style":{ "type":"rect", "ratio":0.8 },
       "changeable": 0,
-      "ext": {
+      "ext": {     
+  "vodPic": "https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20180504/82b2eff6f5bf489e9b4a90fbe9fc7e84.jpeg",
         "drives": [
           {
-            "name": "AV",
-            "server": "https://a74d291e-3b91-45a5-9ec6-9f08a9178e59.id.repl.co"
+            "name": "罗汉果AV",
+            "server": "https://lala-ofbip.run.goorm.site"
           }
         ]
       },
       "jar": "https://qu.ax/tkXa.js;md5;945ad30d5255359385ba59b8fb061bb7"
     },
-    
-  
     {
             "key": "csp_Alist1",
             "name": "罗汉果",
@@ -32,13 +31,6 @@
             "filterable": 0,
             "changeable": 0,
             "ext": "https://dpaste.com/7CML6KWYG.txt","jar":"https://qu.ax/hvUa.js"
-    },
-      {
-      "key": "MissAV",
-      "name": "MissAV",
-      "type": 3,"style":{ "type":"rect", "ratio":0.8 },
-      "api": "csp_Miss",
-      "searchable": 1
     },
     {
       "key": "cjmygzy.com",
@@ -71,6 +63,19 @@
       "searchable": 1,
       "jar":"https://qu.ax/bmJu.js;md5;6976f6560b0b5ff9182651d9e4c43dac"
     },
+    {
+            "key": "av",
+            "name": " av|影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://missav.com/cn/{cateId}?page={catePg}",
+                "分类": "电影$madou#电视剧$dianshiju#综艺$zongyi"
+            }
+        },
     {
       "key": "MissAV",
       "name": "MissAV",
@@ -529,7 +534,7 @@
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
       "searchable": 1
     },
-    {"key": "麻豆村","name": "👠麻豆村","type":1,"api": "https://madoucun.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+    {"key": "麻豆村","name": "👠麻豆村","type":1,"api": "https://madoucun.cn/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "filterable": 0 },
     {
       "key":"乐播资源",
       "name":"乐播资源",
@@ -1041,15 +1046,6 @@
       "name": "青青草视频",
       "type": 0,"style":{ "type":"rect", "ratio":0.8 },
       "api": "https://www.caiji05.com/home/cjapi/cfda/mc10/vod/xml",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "麻豆视频",
-      "name": "麻豆视频",
-      "type": 0,"style":{ "type":"rect", "ratio":0.8 },
-      "api": "https://www.caiji04.com/home/cjapi/cfc7/mc10/vod/xml",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -1618,12 +1614,11 @@
         {"key":"*点点娱乐","name":"*点点娱乐","type":0,"api":"https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml","searchable":0,"quickSearch":0},
         {"key":"*大MM资源","name":"*大MM资源","type":0,"api":"https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml","searchable":0,"quickSearch":0},
         {"key":"*黄瓜TV资源","name":"*黄瓜TV资源","type":0,"api":"https://www.caiji10.com/home/cjapi/cfs6/mc10/vod/xml","searchable":0,"quickSearch":0},
-        {"key":"*快播盒子资源","name":"*快播盒子资源","type":0,"api":"https://www.caiji09.com/home/cjapi/cfp0/mc10/vod/xml","searchable":0,"quickSearch":0},
         {"key":"*大香蕉资源","name":"*大香蕉资源","type":0,"api":"https://www.caiji08.com/home/cjapi/cfkl/mc10/vod/xml","searchable":0,"quickSearch":0},
         {"key":"*日本AV在线","name":"*日本AV在线","type":0,"api":"https://www.caiji07.com/home/cjapi/cfcf/mc10/vod/xml","searchable":0,"quickSearch":0},
         {"key":"*久久热在线","name":"*久久热在线","type":0,"api":"https://www.caiji06.com/home/cjapi/cfbb/mc10/vod/xml","searchable":0,"quickSearch":0},
         {"key":"*青青草视频","name":"*青青草视频","type":0,"api":"https://www.caiji05.com/home/cjapi/cfda/mc10/vod/xml","searchable":0,"quickSearch":0},
-        {"key":"*麻豆视频","name":"*麻豆视频","type":0,"api":"https://www.caiji04.com/home/cjapi/cfc7/mc10/vod/xml","searchable":0,"quickSearch":0},
+        
         {"key":"*一本道资源","name":"*一本道资源","type":0,"api":"https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml","searchable":0,"quickSearch":0},
         {"key":"*草榴视频","name":"*草榴视频","type":0,"api":"https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml","searchable":0,"quickSearch":0},
         {"key":"*亚洲成人在线","name":"*亚洲成人在线","type":0,"api":"https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml","searchable":0,"quickSearch":0},
@@ -2028,12 +2023,10 @@
 {"key":"*点点娱乐","name":"*点点娱乐","type":0,"api":"https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml","searchable":0,"quickSearch":0},
 {"key":"*大MM资源","name":"*大MM资源","type":0,"api":"https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml","searchable":0,"quickSearch":0},
 {"key":"*黄瓜TV资源","name":"*黄瓜TV资源","type":0,"api":"https://www.caiji10.com/home/cjapi/cfs6/mc10/vod/xml","searchable":0,"quickSearch":0},
-{"key":"*快播盒子资源","name":"*快播盒子资源","type":0,"api":"https://www.caiji09.com/home/cjapi/cfp0/mc10/vod/xml","searchable":0,"quickSearch":0},
 {"key":"*大香蕉资源","name":"*大香蕉资源","type":0,"api":"https://www.caiji08.com/home/cjapi/cfkl/mc10/vod/xml","searchable":0,"quickSearch":0},
 {"key":"*日本AV在线","name":"*日本AV在线","type":0,"api":"https://www.caiji07.com/home/cjapi/cfcf/mc10/vod/xml","searchable":0,"quickSearch":0},
 {"key":"*久久热在线","name":"*久久热在线","type":0,"api":"https://www.caiji06.com/home/cjapi/cfbb/mc10/vod/xml","searchable":0,"quickSearch":0},
 {"key":"*青青草视频","name":"*青青草视频","type":0,"api":"https://www.caiji05.com/home/cjapi/cfda/mc10/vod/xml","searchable":0,"quickSearch":0},
-{"key":"*麻豆视频","name":"*麻豆视频","type":0,"api":"https://www.caiji04.com/home/cjapi/cfc7/mc10/vod/xml","searchable":0,"quickSearch":0},
 {"key":"*一本道资源","name":"*一本道资源","type":0,"api":"https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml","searchable":0,"quickSearch":0},
 {"key":"*草榴视频","name":"*草榴视频","type":0,"api":"https://www.caiji02.com/home/cjapi/cfas/sea/vod/xml","searchable":0,"quickSearch":0},
 {"key":"*亚洲成人在线","name":"*亚洲成人在线","type":0,"api":"https://www.caiji01.com/home/cjapi/cfd2/mc/vod/xml","searchable":0,"quickSearch":0},
@@ -2067,18 +2060,8 @@
 {"key":"*番号资源","name":"*番号资源","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*鲨鱼资源","name":"*鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*速度资源","name":"*速度资源","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":0,"quickSearch":0},
-{"key":"*KK写真资源","name":"*KK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
-        {
-    "key": "push_agent",
-    "name": "❤推送 | lf_push",
-    "type": 3,
-    "searchable": 0,
-    "changeable": 1,
-    "quickSearch": 0,
-    "filterable": 0,    
-    "api": "https://qu.ax/zdKQ.js",
-    "ext":"阿里token"
-}
+{"key":"*KK写真资源","name":"*KK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0}
+
       ],
       
   "rules": [
@@ -2231,6 +2214,8 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         },
+{"name":"Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
                 {
             "name": "p9p测试源",
             "type": 0,
@@ -3244,7 +3229,8 @@
 {"name":"ltnb02","type":0,"url":"https://jx.zui.cm/?url=","ext":{"flag":["ltnb"]}},
 {"name":"CL4K01","type":0,"url":"https://ys.ling00.cn/CL4K/?url=","ext":{"flag":["CL4K","qq","腾讯"]}},
 {"name":"CL4K02","type":0,"url":"https://app.okmedcos.com/4k/?url=","ext":{"flag":["CL4K","qq","腾讯","pptv","PPTV"]}},
-{"name": "semao","type": 1,"url": "https://jiexi.99mao.xyz/m3u8/?url="}
+{"name": "semao","type": 1,"url": "https://jiexi.99mao.xyz/m3u8/?url="},
+{"name": "快帆","type": 1,"url": "https://jx.kuaifan.tv/m3u8/?url="}
     ],
 //最后一个“不用逗号”//
 //----------------flags//
