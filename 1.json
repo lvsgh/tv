@@ -416,9 +416,7 @@
         "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/main/so/libp9p.so",
         "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
         "version": "32位"
-      }
-    ]
-  },
+    },
     {
     "name": "本地包配置",
     "list": [
@@ -440,7 +438,7 @@
         "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/zip/XYQTVBox_本地包.zip",
         "icon": "https://i.imgs.ovh/2023/10/20/2IO0D.jpeg",
         "version": "file/Download/..."
-      }]}
+      }
       ]
     },
 {"key":"push_agent","name":"❤推送|lf_push","type":3,"api":"csp_Push"}],
