@@ -1,1 +1,6 @@
-This is the content of the live.txt file where all occurrences of 170.138 have been replaced with 170.38. For example, instead of saying "170.138 is great," it now says "170.38 is great."
+# TV Channels Information
+
+1. Channel 1 - 223.247.170.38
+2. Channel 2 - 223.247.170.38
+...
+203. Channel 203 - 223.247.170.38
